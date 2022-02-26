@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for reviving of a former act, entituled, an Act against unlicensed and scandalous books and pamphlets, and for better regulating of printing; with some additions and explanations. Friday the 7th of January, 1652. Ordered by the Parliament, that this Act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74464</idno>
+            <idno type="STC">Thomason E1061_87</idno>
+            <idno type="STC">ESTC R209380</idno>
+            <idno type="EEBO-CITATION">99868260</idno>
+            <idno type="PROQUEST">99868260</idno>
+            <idno type="VID">169135</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74464)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169135)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 158:E1061[87])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for reviving of a former act, entituled, an Act against unlicensed and scandalous books and pamphlets, and for better regulating of printing; with some additions and explanations. Friday the 7th of January, 1652. Ordered by the Parliament, that this Act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>p. [2], 1923-1928.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field, Printer to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652 [i.e. 1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Also issued as part of a through-paged folio set with a table for the entire set added.</note>
+                  <note>On 15B2r: last word of first line of text: "An"; first word of line below initial: "therein"; last word of last line: "their".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Printing --  England --  Law and legislation --  Early works to 1800.</term>
+               <term>Press law --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169135:1" rendition="simple:additions"/>
+            <pb facs="tcp:169135:2"/>
+            <pb facs="tcp:169135:2" rendition="simple:additions"/>
+            <p>AN ACT FOR REVIVING of a former Act, Entituled, <hi>An Act againſt <g ref="char:V">Ʋ</g>nlicenſed and Scandalous Books and Pamphlets, and for better Regulating of Printing;</hi> WITH Some Additions and Explanations.</p>
+            <p>Friday the 7<hi rend="sup">th</hi> of <hi>January,</hi> 1652.</p>
+            <p>
+               <hi>ORdered by the Parliament, That this Act be forthwith Printed and Publiſhed.</hi>
+            </p>
+            <p>Hen: Scobell, Cleric. Parliamenti.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field,</hi> Printer to the Parliament of <hi>England.</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169135:3"/>
+            <pb n="1923" facs="tcp:169135:3" rendition="simple:additions"/>
+            <head>AN ACT FOR REVIVING of a former ACT, Entituled, <hi>An Act againſt <g ref="char:V">Ʋ</g>nlicenſed and Scandalous Books and Pamphlets, and for better Regulating of Printing;</hi> With ſome ADDITIONS and EXPLANATIONS.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas a late Act, Entituled, <hi>An Act againſt Unlicenſed and Scandalous Books and Pamphlets, and for better Regulating of Printing,</hi> hath ap<g ref="char:EOLhyphen"/>peared by experience to be a good and profitable Law for the ends therein expreſſed; and that the diſcontinuance thereof hath occaſioned ſome lewd Pens and preſſes to reaſſume their former boldneſs, in Writing, Printing and Diſperſing Vnwar<g ref="char:EOLhyphen"/>rantable, Seditious and Scandalous Pa<g ref="char:EOLhyphen"/>pers, Books and Pamphlets, to the great diſ<g ref="char:EOLhyphen"/>honor of God and offence of the Parliament, and inſufferable contempt of all good Order and Government: And whereas many of the Evils and Exorbitances complained of in that Act, appear to have been much occaſioned through the multiplying of Printing-houſes, without any Warrant or Authority, and by reaſon of the Artifice and Subtilty of reſtleſs Spirits, unwilling to be confined within the limits of orderly Government; The Parlia<g ref="char:EOLhyphen"/>ment of <hi>England</hi> taking the premiſes into their
+<pb n="1924" facs="tcp:169135:4"/>ſerious conſideration, ſinde it requiſite to re<g ref="char:EOLhyphen"/>vive and explain the ſaid Law, and to ſupply the further Remedies following; Be it there<g ref="char:EOLhyphen"/>fore by the Authority of this preſent Parlia<g ref="char:EOLhyphen"/>ment Enacted, Ordained and Declared, That the ſaid Act, Entituled as aforeſaid, and all the Clauſes therein contained, Saving for ſo much thereof wherein alteration ſhall be made by this preſent Act, be from henceforth Revi<g ref="char:EOLhyphen"/>ved, and remain in full force and vertue.</p>
+            <p>And be it by the Authority aforeſaid Enact<g ref="char:EOLhyphen"/>ed and Ordained, That the Councel of State for the time being, be Impowred to inquire how many, and which of the ſaid Printing-houſes now in being ſhall be continued; and how ſuch others of them, as ſhall be by the ſaid Councel judged meet to be ſuppreſſed, ſhall be diſpoſed of; and what number of Apprentices and Preſſes every Maſter-printer (to be allow<g ref="char:EOLhyphen"/>ed by the ſaid Councel of State) ſhall have at one time; and to have full Power to take ſuch Order therein, as to them ſhall appear juſt and convenient.</p>
+            <p>And foraſmuch as the Life and Growth of all Arts and Myſteries conſiſteth in a due Re<g ref="char:EOLhyphen"/>gulation thereof, Be it therefore Enacted and Ordained by the Authority aforeſaid, That the Government and Regulation of the ſaid Myſtery of Printing and Printers, ſhall from henceforth be and remain in the Councel of State for the time being; and that the Ma<g ref="char:EOLhyphen"/>ſter, Wardens and Aſsiſtants of the Company of Stationers <hi>London,</hi> ſhall follow and ob<g ref="char:EOLhyphen"/>ſerve ſuch Rules, Orders and Directions con<g ref="char:EOLhyphen"/>cerning the Regulating of Printing, as they ſhall from time to time have and receive from the ſaid Councel ſucceſsively: And the ſaid
+<pb n="1925" facs="tcp:169135:4"/>Councel of State for the time being, and Maſter, Wardens and Aſſiſtants of the ſaid Company, according to ſuch Rules and Di<g ref="char:EOLhyphen"/>rections as they ſhall receive from the ſaid Councel, are hereby Authorized and Required to uſe all good means with care and diligence, for the preventing and puniſhing of Offences and Miſdemeanors againſt this Act, and the Laws, Statutes and Ordinances heretofore made and now in force, againſt Vnlicenſed and Scandalous Books and Pamphlets, and for the better Regulating of Printing.</p>
+            <p>And be it further Enacted and Ordained by the Authority aforeſaid, That no perſon or perſons ſhall or may at any time or times here<g ref="char:EOLhyphen"/>after, Excepting ſuch as ſhall be Licenſed and Authorized by the Parliament or Councel of State, or may claim a Priviledge thereunto by Patrimonial Right, Vſe or Exerciſe the Art, Trade or Myſtery of a Printer of Books, unleſs he or they heretofore have, or hereafter ſhall have ſerved as an Apprentice by the ſpace of Seven Years in the ſaid Art, Myſtery and Science of Printing, with ſome Lawful Maſter-Printer of this Commonwealth of <hi>England;</hi> and that every ſuch perſon and per<g ref="char:EOLhyphen"/>ſons who ſhall be ſo Qualified and Enabled to be a Printer, and ſhall take upon him the Trade or Myſtery of Printing as a Maſter-Printer, ſhall Vſe and Exerciſe the ſame in his and their reſpective Dwelling Houſes, and not elſwhere, Any Law, Statute, Priviledge, Vſage or Cuſtom to the contrary thereof in any wiſe notwithſtanding, under the Penalty of Forty pounds for every Moneth, and ſo proportionably for any ſhorter or longer time, to be Forfeited by every perſon offending a<g ref="char:EOLhyphen"/>gainſt
+<pb n="1926" facs="tcp:169135:5"/>the Proviſion aforeſaid. And whereas by the ſaid Recited Act, it is Provided amongſt other things, That no Dry-fats, Packs, Maunds, Cheſts, Fardels of Books Import<g ref="char:EOLhyphen"/>ed into this Commonwealth, be permitted by any Officers of the Cuſtoms or Exciſe to be Opened or Conveyed away before Notice given; and that the ſame be Searched and Viewed (within Forty eight Hours after ſuch notice) by the ſaid Maſter and Wardens of the ſaid Company of <hi>Stationers,</hi> or ſuch as they ſhall appoint; It is hereby now Enacted and De<g ref="char:EOLhyphen"/>clared, That the Lords-Days, and Days of Publique Thanksgiving and Humiliation (if any ſuch ſhall happen within the ſaid Forty eight Hours next after ſuch Notice as afore<g ref="char:EOLhyphen"/>ſaid) be not accompted nor reckoned as part of the ſaid Forty eight Hours.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That what Books or other things prohibited by this or the ſaid Recited Act, the ſaid Maſter and Wardens, or ſuch as they ſhall appoint, ſhall finde and ſeize upon their Search and View as aforeſaid, they are here<g ref="char:EOLhyphen"/>by Authorized and Réquired to bring them, or cauſe them to be brought to <hi>Stationers-Hall London,</hi> there to remain and to be diſpoſed of as by the ſaid Act is directed: And to the end that the ſaid Searches and Views may be made without Spoil or Damage to the Owners of the Goods ſo Imported, Be it further Enacted by the Authority aforeſaid, That the ſaid Maſter and Wardens, or any of them, ſhall have Power to appoint ſome con<g ref="char:EOLhyphen"/>venient place where the ſaid Search ſhall be made; and that no Merchant or Owner of any ſuch Books Imported, ſhall open their
+<pb n="1927" facs="tcp:169135:5"/>ſaid Goods, or permit them to be opened, but in the preſence of the ſaid Maſter and War<g ref="char:EOLhyphen"/>dens, or ſuch as they ſhall appoint, upon the Penalty or Forfeiture of Five pounds for eve<g ref="char:EOLhyphen"/>ry ſuch Offence; Provided that ſuch Search and View be made within the time above li<g ref="char:EOLhyphen"/>mited after ſuch Notice as aforeſaid.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That all and every the pecuniary Forfeitures and Penalties mentioned, as well in this Act as in the ſaid other Recited Act, which ſhall be incurred by any Offender or Offenders againſt either of the ſaid Acts, ſhall and may be Sued for in any Court of Record whatſoever, within the Iuriſdiction whereof ſuch Offence ſhall be committed, by Action of Debt, Bill, Plaint or Information, wherein no Eſſoyn, Wager of Law, or Protection ſhall be admitted or allowed to the Defendant or Defendants: The one Moyety of all which Forfeitures, if recovered by the Proſecution or Appointment of the ſaid Company of <hi>Sta<g ref="char:EOLhyphen"/>tioners,</hi> after Deduction and Satisfaction of the Charges of Recovery, ſhall be by them re<g ref="char:EOLhyphen"/>ceived and reſerved, ſhall be for the Vſe of the Poor of their Company; and if by the Proſe<g ref="char:EOLhyphen"/>cution of any other perſon, then to the Vſe of the Proſecutor; and the other Moyety or one Half ſhall be to and for the Vſe of the Com<g ref="char:EOLhyphen"/>monwealth, and be accompted for accord<g ref="char:EOLhyphen"/>ingly.</p>
+            <p>And it is further Enacted and Ordained by the Authority aforeſaid, That the Councel of State for the time being, ſhall hereby have like Power as in the ſaid former Act is con<g ref="char:EOLhyphen"/>tained, to all Intents and Purpoſes, for the more full and effectual Execution of the ſame.</p>
+            <pb n="1928" facs="tcp:169135:6"/>
+            <p>And be it further Enacted and Declared, That the Agent for the Army for the time be<g ref="char:EOLhyphen"/>ing, in ſtead of the Secretary of the Army for<g ref="char:EOLhyphen"/>merly appointed, ſhall have Power to Licenſe ſuch Intelligence as may concern the Affairs of the Army onely, under the like Rules and Directions as are contained in the ſaid Act of <hi>September,</hi> One thouſand ſix hundred forty and nine.</p>
+            <p>Provided always, and be it further Enact<g ref="char:EOLhyphen"/>ed by the Authority aforeſaid, That no Clauſe or Clauſes, either in this or the ſaid Recited Act of <hi>September,</hi> One thouſand ſix hundred forty and nine, ſhall be Conſtrued to extend to the Prejudice or Infringing of any of the juſt Rights and Priviledges of any of the Prin<g ref="char:EOLhyphen"/>ters of either of the two Vniverſities in this Commonwealth; But that the ſame ſhall be full as large and effectual to all Intents and Purpoſes, as if this and the ſaid Recited Act of <hi>September,</hi> One thouſand ſix hundred forty and nine, had not been had or made.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>
+                        <hi>Friday the</hi> 7th <hi>of January,</hi> 1652.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>ORdered by the Parliament, That this Act be forthwith Printed and Publiſhed.</p>
+            <closer>
+               <signed>
+                  <hi>
+                     <hi>Hen: Scobell, Cleric. Parliamenti.</hi>
+                  </hi>
+               </signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
